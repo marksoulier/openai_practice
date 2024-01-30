@@ -1,8 +1,8 @@
 "basic chat completion"
 
 from openai import OpenAI
-
-client = OpenAI(api_key="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")
+from api_secrets import API_KEY
+client = OpenAI(api_key=API_KEY)
 
 response = client.chat.completions.create(
   model="gpt-3.5-turbo",

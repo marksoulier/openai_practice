@@ -1,0 +1,47 @@
+
+Name 	Title 	Phone	Email
+Andrew Brim	Professional Practice Instructor	(435) 797-0643	andrew.brim@usu.edu
+Brian Dunn	Assistant Professor	(435) 797-4123	brian.dunn@usu.edu
+Carly Fox	Lecturer	(435) 797-2456	carly.fox@usu.edu
+Chase Neuberger	Office Assistant		chase.neuberger@usu.edu
+Cheryl Burgess	Lecturer	(435) 797-1915	cheryl.burgess@usu.edu
+Christopher Corcoran	Department Head	(435) 797-0578	chris.corcoran@usu.edu
+Corinda Krebs	Adjunct Faculty		corinda.krebs@usu.edu
+Doug Derrick	Professional Practice Professor	(435) 797-1842	doug.derrick@usu.edu
+Eric Hawley	Adjunct Faculty	(435) 797-1134	eric.hawley@usu.edu
+Janet Bringhurst	Adjunct Faculty		janet.bringhurst@usu.edu
+Jeffrey Johnson	Associate Professor	(435) 797-2350	jeffrey.johnson@usu.edu
+Karen Woolstenhulme	Senior Lecturer	(435) 823-2194	karen.woolstenhulme@usu.edu
+Kelly Fadel	Professor	(435) 797-2348	kelly.fadel@usu.edu
+Kelly Seipert	Program Coordinator	(435) 797-5848	kelly.seipert@usu.edu
+Lianne Wappett	Lecturer	(435) 797-9475	lianne.wappett@usu.edu
+Lindsay Bennion	Senior Lecturer	(435) 797-4723	lindsay.bennion@usu.edu
+Marianna Larsen	Adjunct Faculty	(435) 797-1215	marianna.larsen@usu.edu
+Michelle Hardwick	Adjunct Faculty		michelle.hardwick@usu.edu
+Pam Dupin-Bryant	Professor	(435) 797-9892	pam.dupin-bryant@usu.edu
+Polly Conrad	Senior Lecturer	(435) 797-2898	polly.conrad@usu.edu
+Randy Sedgwick	Adjunct Faculty		randy.sedgwick@usu.edu
+Reagan Siggard	Instructor	(435) 797-5366	reagan.siggard@usu.edu
+Rob Barton	Adjunct Faculty		rob.barton@usu.edu
+Robert Mills	Professor	(435) 797-7480	bob.mills@usu.edu
+Sharad Jones	Professional Practice Assistant Professor	(435) 797-2456	sharad.jones@usu.edu
+Steve Fletcher	Professor	(435) 797-2344	steve.fletcher@usu.edu
+Tyler Brough	Associate Professor	(435) 797-2295	tyler.brough@usu.edu
+Yong Kim	Professor	(435) 797-2271	yong.kim@usu.edu
+Zsolt Ugray	MMIS Graduate Director & Associate Professor	(435) 797-8132	zsolt.ugray@usu.edu
+Additional Information
+Contact
+Phone: (435) 797-2342
+Website: https://huntsman.usu.edu/mis/
+UMC: 3515
+Address: 3515 Old Main Hill, Logan, UT 84322-3515
+Department: Jon M. Huntsman School of Business
+Also Known As
+Management Information Systems
+Directory Managers
+Morgan Kuethe
+Shara Gibbons
+These people will be able to update information about this organization or its employees.
+Business Services
+Business Services Staff by College
+Business Services staff are able to update online directory address information for employees.

@@ -1,8 +1,9 @@
 "example of streaming a conversation with the model"
 
 from openai import OpenAI
+from api_secrets import API_KEY
+client = OpenAI(api_key=API_KEY)
 
-client = OpenAI(api_key="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")
 for i in range(1000):
     stream = client.chat.completions.create(
         model="gpt-3.5-turbo-1106",
