@@ -1,1 +1,1 @@
-API_KEY=""
+API_KEY="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"

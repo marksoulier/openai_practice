@@ -1,7 +1,8 @@
 from openai import OpenAI
 import json
+from api_secrets import API_KEY
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key=API_KEY)
 
 # Example dummy function hard coded to return the same weather
 # In production, this could be your backend API or an external API
