@@ -39,7 +39,15 @@ Remember to keep your API key private and never expose it in your public code re
 ## learning how to use the API
 
 Go to the following link to learn more about the API:
-
 https://platform.openai.com/docs/overview
+
+Prompt Engineering
+https://platform.openai.com/docs/guides/prompt-engineering
+
+Chat Completion:
+https://platform.openai.com/docs/guides/text-generation
+
+Assitants:
+https://platform.openai.com/docs/assistants/overview
 
 ```

@@ -2,6 +2,8 @@
 
 from openai import OpenAI
 from api_secrets import API_KEY
+
+#inicilize the client
 client = OpenAI(api_key=API_KEY)
 
 response = client.chat.completions.create(
@@ -14,4 +16,5 @@ response = client.chat.completions.create(
   ]
 )
 
+# print(response)
 print(response.choices[0].message.content)

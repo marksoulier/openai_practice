@@ -32,7 +32,7 @@ run = client.beta.threads.runs.retrieve(
 # Wait for the response in a loop
 response_received = False
 while not response_received:
-    time.sleep(2)  # Check every 5 seconds
+    time.sleep(0.5)  # Check every 5 seconds
 
     # Retrieve the messages
     messages = client.beta.threads.messages.list(
@@ -43,6 +43,4 @@ while not response_received:
         response_received = True
 
 # Print the assistant's response
-for msg in messages.data:
-    # Check if the message content is of type 'text' and then print the value
-    print(msg.content[0].text.value)
+print(messages.data[0].content[0].text.value)
